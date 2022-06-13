@@ -45,9 +45,16 @@ Hi
 Hello
 ```
 
-I aquesta és la sortida de l'execució del fitxer [**```RecuMP03UF03.java```**](./RecuMP03UF03.java), tal i com està ara, és a dir, sense fer l'activitat.
+Aquesta és la sortida de l'execució del fitxer [**```RecuMP03UF03.java```**](./RecuMP03UF03.java), tal i com està ara, és a dir, sense fer l'activitat.
 
 ```
 Entra el nom del fitxer a llegir: prova.txt
 El fitxer prova.txt té 1 línia!
+```
+
+I aquesta és la sortida de l'execució del fitxer [**```RecuMP03UF03.java```**](./RecuMP03UF03.java), tal i com **hauria de ser**, un cop feta l'activitat.
+
+```
+Entra el nom del fitxer a llegir: prova.txt
+El fitxer prova.txt té 3 línies!
 ```
