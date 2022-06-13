@@ -81,13 +81,13 @@ Aquesta és la sortida de l'exemple
 
 Aquest és el contingut del fitxer:
 
-[**```NotesClasse.txt```**](`./NotesClasse.txt)
+[**```NotesClasse.txt```**](./NotesClasse.txt)
 
 ```
 10#8,5#4,5#8#5#3,75#6#7,5#8#6,5#6#2,5#9#5#6,5#-1
 ```
 
-El fitxer resultant [**```NotesClasseHisto.txt```**](`./NotesClasseHisto.txt) contindria el següent:
+El fitxer resultant [**```NotesClasseHisto.txt```**](./NotesClasseHisto.txt) contindria el següent:
 ```
 Excel·lent : **
 Notable    : ****
